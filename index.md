@@ -42,4 +42,6 @@ Held in Uppsala November 24-25, 2015.
 [BLAT](http://genome.ucsc.edu/goldenPath/help/blatSpec.html)  
 [BLAST](http://www.ncbi.nlm.nih.gov/books/NBK279690/)  
 A good explanation of the FASTQ format can be found over at the [MAQ web page](http://maq.sourceforge.net/fastq.shtml). 
-It also includes simple Perl code to encode and decode the quality scores. 
+It also includes simple Perl code to encode and decode the quality scores.
+
+ 
